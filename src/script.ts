@@ -801,7 +801,7 @@ class Rect {
 		piano: any;
 		soundSelection: string;
 
-		// TODO: idk what to make piano
+		// TODO: idk what type to make piano
 		constructor (piano: any) {
 			this.initialized = false;
 			this.keys = piano.keys;

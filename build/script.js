@@ -686,7 +686,7 @@ $(function () {
     // Soundpack Stuff by electrashave ♥
     ////////////////////////////////////////////////////////////////
     var SoundSelector = /** @class */ (function () {
-        // TODO: idk what to make piano
+        // TODO: idk what type to make piano
         function SoundSelector(piano) {
             this.initialized = false;
             this.keys = piano.keys;
